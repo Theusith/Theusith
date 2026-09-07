@@ -16,7 +16,7 @@ Hoje estou migrando essa base técnica para o desenvolvimento de software, const
 - 🎓 ADS - Unicesumar (previsão: 2027)
 - 🏭 Background industrial: CNC, ferramentaria, metrologia, desenho técnico (SENAI)
 - 💻 Construindo projetos com Java, Spring Boot, React e PostgreSQL
-- 🐧 Uso Linux no dia a dia (Bazzite para uso pessoal, ambiente dedicado para dev)
+- 🐧 Uso Linux no dia a dia (Bazzite para uso pessoal,Ubunto dedicado para dev)
 - 🎯 Objetivo atual: conseguir um estágio em desenvolvimento de software
 - 🌱 Interesses fora do código: geopolítica, literatura de fantasia e filosofia
 
