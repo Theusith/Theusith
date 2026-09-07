@@ -68,10 +68,8 @@ Aplicação full-stack para gerenciamento de reservas aéreas, construída como 
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Theusith&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Theusith&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+[![](https://github-readme-stats.shion.dev/api?username=Theusith&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/Theusith)
+[![](https://github-readme-stats.shion.dev/api/top-langs/?username=Theusith&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Theusith)
 
 ---
 
